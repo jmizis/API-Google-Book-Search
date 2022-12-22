@@ -16,7 +16,10 @@ On Github I was able to create a new repository where I was able to push all my 
 ## Heroku
 
 For this assignment we had to deploy our application to heroku. I logged into my Heroku account and connected it to my github. Then I was able to search my repository to create the deployed application.
-URL: 
+URL: https://api-google.herokuapp.com/
+
+![Screenshot (16)](https://user-images.githubusercontent.com/107073756/209163228-e0125c1f-3914-4acf-9177-1c53fcc5d2bd.png)
+
 
 
 
@@ -27,4 +30,4 @@ URL:
 
 ## Links 
 repository: https://github.com/jmizis/API-Google-Book-Search
-Heroku: 
+Heroku: https://api-google.herokuapp.com/
