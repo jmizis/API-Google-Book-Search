@@ -14,5 +14,9 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "homepage": "https://github.com/jmizis/API-Google-Book-Search",
+  "dependencies": {
+    "concurrently": "^7.6.0"
   }
 }
