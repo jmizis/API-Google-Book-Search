@@ -47,6 +47,7 @@ type Auth {
     removeBook(bookId: ID!): User
     }
     
+    
 `;
 
 module.exports = typeDefs;
